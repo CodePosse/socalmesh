@@ -1,7 +1,7 @@
 ---
 title: "Setting up Meshtastic on iPhone"
 description: "A step by step walkthrough of the iOS app, with screenshots: LongTurbo slot 14, optional MQTT, and checking your first message with the parrot."
-author: "T.Hunold"
+author: "codeposse"
 date: 2026-10-09
 tags: ["getting-started", "ios", "setup"]
 ---
